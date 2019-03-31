@@ -1,0 +1,15 @@
+
+   .Footer footer{
+    border-radius: 0 !important;
+    border-bottom: 0;
+    margin: 20px 0 0;
+    color: #333333;
+  }
+
+  .Footer informaton {
+    color: #333333;
+    text-align: center;
+  }
+  .footernavigation .footer{ 
+    color: #333333;
+  }

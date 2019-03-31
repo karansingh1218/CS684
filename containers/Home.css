@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+
+.Home .lander {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .Home .lander h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+  }
+  
+  .Home .lander p {
+    padding: 10px 0;
+    color: #333333;
+  
+  }
+
+  .Home .body  {
+    padding: 10px 0;
+    color: #333333;
+  }
+  .Home .searchengine{
+    font-family: "Montserrat", sans-serif;
+    color: #333333;
+  }
